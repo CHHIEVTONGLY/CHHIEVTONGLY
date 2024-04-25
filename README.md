@@ -47,6 +47,6 @@
 
 ### My contribute
 
-<img src="https://raw.githubusercontent.com/CHHIEVTONGLY/profile-view/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CHHIEVTONGLY/CHHIEVTONGLY/output/snake.svg" alt="Snake animation" />
 
 ###
