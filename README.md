@@ -1,6 +1,6 @@
 # Hi there 👋, I'm LY CHHIEVTONG
 
-I'm a senior at **Royal University of Phnom Penh**, pursuing my passion for **web development**.  
+I'm a fresh graduated at **Royal University of Phnom Penh**, pursuing my passion for **Full Stack Developer**.  
 
 I enjoy building projects that combine creativity with functionality, and I'm constantly learning new technologies to enhance my skills.  
 
